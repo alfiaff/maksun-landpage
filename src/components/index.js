@@ -1,0 +1,6 @@
+export {default as Header} from './Header'
+export {default as Jumbotron} from './Jumbotron'
+export {default as About} from './About'
+export {default as OurMenu} from './OurMenu'
+export {default as Delivery} from './Delivery'
+export {default as Footer} from './Footer'

@@ -1,0 +1,71 @@
+{
+  "food": [
+     {
+       "id": 1,
+      "name": "Kupat tahu",
+      "price": "Rp10.000"
+    },
+    {
+      "id": 2,
+      "name": "Nasi timbel",
+      "price": "Rp15.000"
+    },
+    {
+      "id": 3,
+      "name": "Nasi tutug oncom",
+      "price": "Rp15.000"
+    },
+    {
+      "id": 4,
+      "name": "Ayam bakakak",
+      "price": "Rp23.000"
+    },
+    {
+       "id": 5,
+      "name": "Mie kocok",
+      "price": "Rp10.000"
+    },
+    {
+      "id": 6,
+      "name": "Batagor",
+     "price": "Rp10.000"
+    },
+    {
+      "id": 7,
+     "name": "Soto Bandung",
+     "price": "Rp12.000"
+    },
+    {
+      "id": 8,
+     "name": "Lotek",
+     "price": "Rp10.000"
+    },
+    {
+      "id": 9,
+     "name": "Empal gentong",
+     "price": "Rp12.000"
+    }
+  ],
+  "drink": [
+    {
+      "id": 2.1,
+      "name": "Bandrek",
+      "price": "Rp5.000"
+    },
+    {
+      "id": 2.2,
+      "name": "Teh tarik",
+      "price": "Rp7.000"
+    },
+    {
+      "id": 2.3,
+      "name": "Es teh",
+      "price": "Rp5.000"
+    },
+    {
+      "id": 2.4,
+      "name": "Es jeruk",
+      "price": "Rp5.000"
+    }
+  ]
+}
